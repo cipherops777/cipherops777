@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi 👋 My name is Olusegun Fajobi (SamFajobi)
+===============================
+AI Security Engineer💻 | AI/ML Engineer
+-------------------
 
-<!--
-**cipherops777/cipherops777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Cybersecurity and AI/ML Engineer with Hands-on experience in threat detection, pentesting, and securing cloud environments. Passionate about building real-world cybersecurity solutions ☁️.
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Lagos, Nigeria.
+* ✉️  You can contact me at [olusegunfajobi12@gmail.com](mailto:olusegunfajobi12@gmail.com)
+* 🧠  I'm interested in learning Blockchain Security
+* 🤝  I'm open to collaborating on Cloud Based Projects, Threat Detections, Open-Source security projects, Home Labs, & more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/samfajobi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://samfajobi.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sam-fajobi77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://x.com/SamuelFajobi03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
