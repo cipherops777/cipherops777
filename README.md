@@ -1,4 +1,5 @@
-Hi 👋 My name is Olusegun Fajobi (SamFajobi)
+Hi there👋 
+I AM Olusegun Fajobi (SamFajobi)
 ===============================
 AI Security Engineer💻 | AI/ML Engineer
 -------------------
@@ -9,6 +10,7 @@ A passionate Cybersecurity and AI/ML Engineer with Hands-on experience in threat
 * ✉️  You can contact me at [olusegunfajobi12@gmail.com](mailto:olusegunfajobi12@gmail.com)
 * 🧠  I'm interested in learning Blockchain Security
 * 🤝  I'm open to collaborating on Cloud Based Projects, Threat Detections, Open-Source security projects, Home Labs, & more.
+* 🤝  My previous accounts (https://github.com/samfajobi & https://github.com/SamFajobi513) got locked out
 
 
 ### Skills
